@@ -1,74 +1,121 @@
 ### **🚀 Hi, I'm Bhushan Barbuddhe!**  
-**A Passionate Team Lead | Full-Stack Developer | ETL & Data Engineering Enthusiast**  
+**Team Lead | Full-Stack Developer | ETL & Data Engineering Expert | Open Source Contributor**  
 
-🌟 **Tech Stacks:** M/PEAN | M/PERN | LAMP | Microservices | Multi-Tenancy | ETL Pipelines  
+
+🌟 **Specialized in:** M/PERN | M/PEAN | LAMP | Microservices | Multi-Tenancy | ETL Pipelines | Frappe Framework
 
 ---
 
 ## **🚀 About Me**
+
 💻 **Currently Working On:**  
-- Building scalable **ETL pipelines** using **Airbyte & Apache Airflow**  
-- **Optimizing database performance** for cost efficiency  
-- **Migrating monolithic applications to microservices**  
+- Building **production-grade Frappe applications** and contributing to the open-source ecosystem  
+- **Advanced ETL pipelines** with **Airbyte, Apache Airflow** & real-time data synchronization  
+- **Database performance optimization** and cost-efficient scaling strategies  
+- **Migrating legacy monoliths to cloud-native microservices architecture**  
 
 🤝 **Looking to Collaborate On:**  
-- Open-source contributions in **Airbyte & Data Engineering**  
-- Scalable **Microservices & Multi-Tenant Architectures**  
-- **API Optimization** & **Performance Tuning**  
-
-📚 **Currently Learning:**  
-- **Incremental Data Sync Techniques**  
-- **Custom Authentication for API Integrations**  
+- **Frappe Framework applications** - Custom DocTypes, Workflows, and Portal Development  
+- Open-source contributions in **Airbyte, Frappe & Data Engineering**  
+- **Cloud-native microservices** & **Multi-tenant SaaS architectures**  
+- **API optimization**, performance tuning & developer experience improvements  
 
 💡 **Ask Me About:**  
-👉 API Design & Performance Optimization  
-👉 ETL Pipelines & Data Synchronization  
-👉 CI/CD, Infrastructure as Code  
-👉 High-Performance Backend Architecture  
+👉 **Frappe Framework** - DocTypes, Workflows, Portal Development & Custom Apps  
+👉 **API Design & Performance** - RESTful services, GraphQL, and microservices patterns  
+👉 **ETL Pipelines** - Data transformation, validation, and real-time synchronization   
+👉 **Database Architecture** - Performance tuning, replication, and scaling strategies  
 
 🎯 **Fun Fact:**  
-⚡ Once optimized a query that **reduced execution time from 2 hours to 5 minutes** 🚀  
+⚡ **Optimized a complex database query from 2 hours to 5 minutes** using advanced indexing and query restructuring! Also contributed to **Frappe community** with custom apps and performance improvements 🚀  
 
 ---
 
 ## **🌐 Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-barbuddhe)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhushan.barbuddhe@dhwaniris.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbbhushu@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-dhwaniris)
 
 ---
 
-## **🚀 Tech Stack & Tools**  
+## **🛠️ Tech Stack & Expertise**
+
+### **Frontend Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,typescript,javascript,html,css,tailwind" />
+</p>
+
+### **Backend & Server Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,nginx,graphql" />
+</p>
+
+### **Databases & Data Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,kafka" />
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,bitbucket,bash" />
+</p>
+
+### **Specialized Frameworks & Tools**
+- **🏗️ Frappe Framework** - Full-stack web development, ERPNext customization, Custom DocTypes
+- **🔄 ETL Tools** - Airbyte, Apache Airflow, Custom data pipelines
+- **📊 Data Processing** - Pandas, NumPy, Real-time analytics
+- **🔧 Development Tools** - VS Code, Postman, Docker Desktop, Git workflows
+
+---
+
+## **📈 Current Focus Areas (2025)**
+
+### **🔥 Frappe Ecosystem Contributions**
+- Building **production-ready Frappe applications** for business automation
+- Contributing to **open-source Frappe projects** and community initiatives
+- Developing **custom integrations** and **workflow optimizations**
+- **Performance tuning** for large-scale Frappe deployments
+
+### **☁️ Modern Architecture Patterns**
+- **Serverless architectures** with AWS Lambda and Azure Functions
+- **Microservices patterns** using Docker and Kubernetes
+- **API-first development** with GraphQL and REST optimization
+- **Real-time data processing** with event-driven architectures
+
+---
+
+## **💻 GitHub Analytics**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,redis,angular,react,nextjs,php,laravel,aws,azure,docker,graphql,kafka,nginx,git,github,bitbucket,bash" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-dhwaniris&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-dhwaniris&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-dhwaniris&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 ---
 
-## **💊 GitHub Stats**  
+## **🏆 Achievements & Recognition**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-dhwaniris&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-dhwaniris&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-dhwaniris&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhushan-dhwaniris&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
-## **🏆 GitHub Trophies**
+### **✨ Daily Dev Inspiration**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhushan-dhwaniris&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-### **✨ Random Dev Quote**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### **🌟 Let's Build the Future Together!** 
+
+> *"Code is poetry written in logic, and every great application starts with a single commit."*
+
+**💼 Open for collaborations** • **🎯 Always learning** • **🚀 Ready to innovate**
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=bhushan-dhwaniris&icon=9&color=0)
-
----
-
-### **🔥 Let's Build Something Awesome Together!** 🚀  
+*⭐ Don't forget to star repositories you find interesting!*
