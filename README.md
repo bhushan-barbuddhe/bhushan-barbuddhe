@@ -68,7 +68,7 @@
 
 ---
 
-## **📈 Current Focus Areas (2025)**
+## **📈 Current Focus Areas**
 
 ### **🔥 Frappe Ecosystem Contributions**
 - Building **production-ready Frappe applications** for business automation
@@ -86,19 +86,19 @@
 
 ## **💻 GitHub Analytics**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-dhwaniris&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-dhwaniris&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-barbuddhe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-barbuddhe&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-dhwaniris&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-barbuddhe&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
 ---
 
 ## **🏆 Achievements & Recognition**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhushan-dhwaniris&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhushan-barbuddhe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
