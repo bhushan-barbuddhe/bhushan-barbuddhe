@@ -6,35 +6,10 @@
 
 ---
 
-## **🚀 About Me**
-
-💻 **Currently Working On:**  
-- Building **production-grade Frappe applications** and contributing to the open-source ecosystem  
-- **Advanced ETL pipelines** with **Airbyte, Apache Airflow** & real-time data synchronization  
-- **Database performance optimization** and cost-efficient scaling strategies  
-- **Migrating legacy monoliths to cloud-native microservices architecture**  
-
-🤝 **Looking to Collaborate On:**  
-- **Frappe Framework applications** - Custom DocTypes, Workflows, and Portal Development  
-- Open-source contributions in **Airbyte, Frappe & Data Engineering**  
-- **Cloud-native microservices** & **Multi-tenant SaaS architectures**  
-- **API optimization**, performance tuning & developer experience improvements  
-
-💡 **Ask Me About:**  
-👉 **Frappe Framework** - DocTypes, Workflows, Portal Development & Custom Apps  
-👉 **API Design & Performance** - RESTful services, GraphQL, and microservices patterns  
-👉 **ETL Pipelines** - Data transformation, validation, and real-time synchronization   
-👉 **Database Architecture** - Performance tuning, replication, and scaling strategies  
-
-🎯 **Fun Fact:**  
-⚡ **Optimized a complex database query from 2 hours to 5 minutes** using advanced indexing and query restructuring! Also contributed to **Frappe community** with custom apps and performance improvements 🚀  
-
----
-
 ## **🌐 Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushan-barbuddhe)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbbhushu@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-dhwaniris)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbuddhebhushan@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushan-barbuddhe)
 
 ---
 
@@ -59,28 +34,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,bitbucket,bash" />
 </p>
-
-### **Specialized Frameworks & Tools**
-- **🏗️ Frappe Framework** - Full-stack web development, ERPNext customization, Custom DocTypes
-- **🔄 ETL Tools** - Airbyte, Apache Airflow, Custom data pipelines
-- **📊 Data Processing** - Pandas, NumPy, Real-time analytics
-- **🔧 Development Tools** - VS Code, Postman, Docker Desktop, Git workflows
-
----
-
-## **📈 Current Focus Areas**
-
-### **🔥 Frappe Ecosystem Contributions**
-- Building **production-ready Frappe applications** for business automation
-- Contributing to **open-source Frappe projects** and community initiatives
-- Developing **custom integrations** and **workflow optimizations**
-- **Performance tuning** for large-scale Frappe deployments
-
-### **☁️ Modern Architecture Patterns**
-- **Serverless architectures** with AWS Lambda and Azure Functions
-- **Microservices patterns** using Docker and Kubernetes
-- **API-first development** with GraphQL and REST optimization
-- **Real-time data processing** with event-driven architectures
 
 ---
 
